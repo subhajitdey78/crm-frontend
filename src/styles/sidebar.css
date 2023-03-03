@@ -1,0 +1,17 @@
+.sidebar-nav {
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+}
+
+.sidebar-item {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    font-size: large;
+    flex-wrap: wrap;
+}
+
+.sidebar-title {
+    font-size: xx-large;
+}
